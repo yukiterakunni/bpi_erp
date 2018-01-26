@@ -1,0 +1,5 @@
+Configuraciones importantes 
+1.El nombre de la bd siempre sera bpi_erp
+2.La carpeta app contiene todo el codigo en python 
+3.La carpeta bd contendra solamente los modelos y scripts importantes
+4.La carpeta resources contendra los materiales de apoyo importantes 
