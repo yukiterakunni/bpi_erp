@@ -1,0 +1,4 @@
+CREATE PROCEDURE `create_user` ()
+BEGIN
+
+END
